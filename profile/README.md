@@ -52,17 +52,9 @@ Our groundbreaking new programming language. `nullscript` is designed with a foc
 **Tech Stack**: Rust
 
 **Explore the Project**:
-*   [nullscript Repository](https://github.com/nullscript-lang/nullscript)
+*   [NullScript](https://github.com/nullscript-lang/nullscript)
 
 *More projects coming soon! Stay tuned!*
-
-## 📊 GitHub Stats
-
-We're just getting started, and every contribution helps us grow! Watch our progress here:
-
-[![NullScript Lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullscript-lang&show_icons=true&theme=nord&hide_border=true&count_private=true)](https://github.com/nullscript-lang)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nullscript-lang&layout=compact&theme=nord&hide_border=true)](https://github.com/nullscript-lang)
 
 ## 🤝 Join Our Community & Contribute
 
