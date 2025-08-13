@@ -29,17 +29,13 @@ We specialize in low-level systems programming and language design, leveraging c
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
-  <img src="https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=x86&logoColor=white" alt="Assembly Badge">
 </p>
 
 ### Tools & Ecosystem
 <p>
   <img src="https://img.shields.io/badge/Cargo-black?style=for-the-badge&logo=rust&logoColor=white" alt="Cargo Badge">
-  <img src="https://img.shields.io/badge/LLVM-26B224?style=for-the-badge&logo=llvm&logoColor=white" alt="LLVM Badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode Badge">
 </p>
 
 ## 🚀 Featured Project
