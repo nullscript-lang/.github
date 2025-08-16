@@ -1,5 +1,9 @@
 <div align="center">
-  <h1>NullScript Lang: Crafting the Future of Programming Languages</h1>
+  <img src="./logo.png" alt="NullScript Logo" width="128" height="128">
+  <h1 align="center">NullScript Lang</h1>
+  <p>
+    Crafting the Future of Programming Languages.
+  </p>
   <p>
     <em>Building innovative, high-performance, and community-driven programming languages for the next generation of developers.</em>
   </p>
